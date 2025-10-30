@@ -14,7 +14,7 @@ def main():
     try:
         user_age = int(user_age)
 
-        # check if age within requirements 
+        # check if age within requirements
         if user_age > 25 and user_age < 40:
             print("You can date my grandchild!")
         else:
@@ -23,7 +23,7 @@ def main():
     except ValueError:
         # exception handling
         print("ERROR! You have to enter a valid age!")
-    #end game
+    # end game
     finally:
         print("Thanks for playing my game!")
 
