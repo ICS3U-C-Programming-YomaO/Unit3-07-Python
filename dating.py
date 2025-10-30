@@ -1,8 +1,7 @@
 #!/usr/bin/env python3
 # Created By: Yoma Ozoh
 # Date: October 2025
-# This program generates a random number between 0 and 9
-# and checks if the user guessed it correctly
+# This program checks if user can date my grandchild
 
 import random
 
