@@ -15,7 +15,7 @@ def main():
         user_age = int(user_age)
 
         # check if age within requirements 
-        if user_age > 25 and user_age < 41:
+        if user_age > 25 and user_age < 40:
             print("You can date my grandchild!")
         else:
             print("You cannot date my grandchild")
